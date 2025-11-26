@@ -10,7 +10,7 @@
 - 🐍 Strong in **Python**, especially **Data Structures & Algorithms (DSA)**  
 - 📘 Exploring and building **AI + Data-driven real-world projects**  
 - 💬 Ask me about **Python, ML Algorithms, AI, and DSA**  
-- 📫 Reach me at **your-email@example.com** *(replace with your real email)*  
+- 📫 Reach me at **kishan0457r@gmail.com** 
 
 ---
 
@@ -64,13 +64,5 @@
 
 ---
 
-### 🔝 Top Contributed Repositories  
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=1nt24ai026kishan&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-
-### 📊 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=1nt24ai026kishan&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/1nt24ai026kishan)
-
----
 
